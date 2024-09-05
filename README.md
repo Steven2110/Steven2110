@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">I'm a student at Tomsk State University. I'm passionate about iOS development, and all things about Apple ecosystem.</h3>
+<h2 align="center">Bachelor of Science in Computer Science</h2>
+<h3 align="center">I'm a master's student at Tomsk State University. I'm currently taking master's degree in Physics specialized in Theoretical and Practical Astronomy. I'm passionate about iOS development, and all things about Apple ecosystem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steven2110&label=Profile%20views&color=0e75b6&style=flat" alt="steven2110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steven2110" alt="steven2110" /></a> </p>
 
-- 🔭 I’m currently working on [DubDubGrub course](https://github.com/Steven2110/DubDubGrub)
+- 🔭 I’m currently working on Lungo app for [Flux Creative Indonesia](https://github.com/fluxcreativeid) and PT. Imaji Cipta
 
-- 🌱 I’m currently learning **SwiftUI, CloudKit, CoreData, DubDubGrub (by Sean Allen)**
+- 🌱 I’m currently learning **SwiftUI, CloudKit, CoreData, SwiftCharts, SwiftData**
 
 - 💬 Ask me about **Swift, SwiftUI, Mobile Development, Python, Flask, MongoDB, C++**
 
