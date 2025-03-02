@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h2 align="center">Bachelor of Science in Computer Science</h2>
-<h3 align="center">I'm a master's student at Tomsk State University. I'm currently taking master's degree in Physics specialized in Theoretical and Practical Astronomy. I'm passionate about iOS development, and all things about Apple ecosystem.</h3>
+<h3 align="center">I'm a master's student at Tomsk State University. I'm currently taking master's degree in Physics specialized in Theoretical and Practical Astronomy. Beside astronomuy, I'm also passionate about iOS development, and all things about Apple ecosystem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steven2110&label=Profile%20views&color=0e75b6&style=flat" alt="steven2110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steven2110" alt="steven2110" /></a> </p>
 
-- 🔭 I’m currently working on Lungo app for [Flux Creative Indonesia](https://github.com/fluxcreativeid) and PT. Imaji Cipta
+- 🔭 I’m currently working on my Master's dissertation on topic: Analysis of Resonant Structures of Near-Earth Objects Using Neural Networks.
+
+- ✅ I have finished working on Lungo app for [Invencio Creative Tech](https://www.instagram.com/invencio.tech/) and PT. Imaji Cipta.
 
 - 🌱 I’m currently learning **SwiftUI, CloudKit, CoreData, SwiftCharts, SwiftData**
 
-- 💬 Ask me about **Swift, SwiftUI, Mobile Development, Python, Flask, MongoDB, C++**
+- 💬 Ask me about **Swift, SwiftUI, Mobile Development, Python, Flask, MongoDB, C++, Physics, Astronomy**
 
 - 📫 How to reach me **steven.wijaya2001@gmail.com**
 
