@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h2 align="center">Bachelor of Science in Computer Science</h2>
-<h3 align="center">I'm a master's student at Tomsk State University. I'm currently taking master's degree in Physics specialized in Theoretical and Practical Astronomy. Beside astronomuy, I'm also passionate about iOS development, and all things about Apple ecosystem.</h3>
+<h3 align="center">I'm a master's student at Tomsk State University. I'm currently taking master's degree in Physics specialized in Theoretical and Practical Astronomy. Beside astronomy, I'm also passionate about iOS development, and all things about Apple ecosystem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steven2110&label=Profile%20views&color=0e75b6&style=flat" alt="steven2110" /> </p>
 
